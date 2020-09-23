@@ -23,7 +23,7 @@
     <ProjectGuid>{EBFE0B3D-B4FD-4FB7-8222-7B729037F696}</ProjectGuid>
     <Keyword>MFCProj</Keyword>
     <RootNamespace>CSDIProject</RootNamespace>
-    <WindowsTargetPlatformVersion>10.0.16299.0</WindowsTargetPlatformVersion>
+    <WindowsTargetPlatformVersion>10.0.17134.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
