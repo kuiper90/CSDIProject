@@ -183,6 +183,7 @@
     </ResourceCompile>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="CMyDatabase.h" />
     <ClInclude Include="CSDIProject.h" />
     <ClInclude Include="CSDIProjectDoc.h" />
     <ClInclude Include="CSDIProjectView.h" />
@@ -192,6 +193,7 @@
     <ClInclude Include="targetver.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="CMyDatabase.cpp" />
     <ClCompile Include="CSDIProject.cpp" />
     <ClCompile Include="CSDIProjectDoc.cpp" />
     <ClCompile Include="CSDIProjectView.cpp" />
